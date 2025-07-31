@@ -122,7 +122,7 @@ Me chamo Pedro Luiz Gomes Teixeira, tenho 25 anos e sou natural de Teresina-PI. 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroLuiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroLuiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
