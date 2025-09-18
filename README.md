@@ -1,8 +1,8 @@
 # 👨‍💻 Pedro Luiz
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`** 
 
-Me chamo Pedro Luiz Gomes Teixeira, tenho 25 anos e sou natural de Teresina-PI. Concluí o ensino médio no PREMEN-NORTE, com o curso técnico em administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ***. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[DevPedroLuiz](https://www.youtube.com/@Pedro_Luiz_adm)", onde mostro meus projetos web, e também através do Instagram, com o perfil chamado "[pedroluiz_adm](https://www.instagram.com/pedroluiz_adm?igsh=cnhzY2xwOTFlcXIx)".
+Me chamo Pedro Luiz Gomes Teixeira, tenho 25 anos e sou natural de Teresina-PI. Concluí o ensino médio no PREMEN-NORTE, com o curso técnico em administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ***. Sou CEO e cofundador da empresa "[OrbyData](https://orbydata.com)" e apaixonado por tecnologia. Gosto de compartilhar meu conhecimento através do canal no YouTube "[DevPedroLuiz](https://www.youtube.com/@Pedro_Luiz_adm)", onde mostro meus projetos web, e também através do Instagram, com o perfil chamado "[pedroluiz_adm](https://www.instagram.com/pedroluiz_adm?igsh=cnhzY2xwOTFlcXIx)". 
 
 <p align="left">
     <a href="https://www.youtube.com/@Pedro_Luiz_adm">
