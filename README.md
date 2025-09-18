@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Luiz
+# 👨‍💻 Pedro Luiz
 
 **`Desenvolvedora FullStack`**
 
